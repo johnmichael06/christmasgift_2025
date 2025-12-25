@@ -37,8 +37,8 @@ export const FRIENDS_DATA: FriendsDataMap = {
     "rudolph": {
     passcode: "5678",
     realName: "Sam",
-    note: "Sam, Merry Chirstmas! I know na busy kaayo ka as a PT student, that's why kani akong gift sa imo -Mike ",
-    giftImage: "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7" 
+    note: "Merry Christmas! Since shoppee lang to ganina, kani na akong gift sa imo my nihh. Enjoy!",
+    giftImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0mwEZJs1bJMoxU4Cmqjyc1l2v7F5PiTcqfA&s" 
   }
   ,
     "snow": {
