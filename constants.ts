@@ -18,8 +18,8 @@ export const FRIENDS_DATA: FriendsDataMap = {
   "reindeer": {
     passcode: "nihh",
     realName: "Nina",
-    note: "Merry Christmas Nihg, since you  are an andventurer, kani akong gift sa imo. - Mike",
-    giftImage: "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825" 
+    note: "Merry Christmas Nihg, since nagka-error bago lang, here's my NEW gift for you. - Mike",
+    giftImage: "https://www.brainyquote.com/photos_tr/en/p/pearlsbuck/383407/pearlsbuck1.jpg" 
   },
     "bingka": {
     passcode: "wuwa",
