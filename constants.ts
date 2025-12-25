@@ -135,10 +135,18 @@ export const FRIENDS_DATA: FriendsDataMap = {
        "pinecone": {
     passcode: "6767",
     realName: "Grant",
-    note: "MMerry Christmas Grant!! Thanks for being a real nii! Please enjoy my giftt for you! See u next year!   - Mike",
+    note: "Merry Christmas Grant!! Thanks for being a real nii! Please enjoy my giftt for you! See u next year!   - Mike",
     giftImage: "https://image.cloudytees.com/2025/09/Charlie-Kirk-Rest-In-Peace-1993-2025-Ugly-Christmas-Sweater-1.jpg" 
   },
 
+
+  
+       "pine tree": {
+    passcode: "5423",
+    realName: "Ashy",
+    note: "Merry Christmas Ashy! Thanks for being a great friend and here's my gift for you sana magustuhan mo. I bought the whole lab btw - Mike",
+    giftImage: "https://www.usm.edu.ph/wp-content/uploads/2025/05/5-6.jpg" 
+  },
 
 
 
