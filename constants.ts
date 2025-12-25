@@ -163,6 +163,13 @@ export const FRIENDS_DATA: FriendsDataMap = {
     giftImage: "https://traversewithtaylor.com/wp-content/uploads/2023/01/Untitled-design-24.png" 
   },
 
+       "pie": {
+    passcode: "5432",
+    realName: "Uk",
+    note: "Merry Christmas! Thanks for being a great friend although wala na kayo ta gakita HAHAHA! Here's my gift for you sana ma enjoy mo.",
+    giftImage: "https://raphaelsgifts.com/wp-content/uploads/2019/03/celebration-beer-gift-hamper.jpg" 
+  },
+
 
 
 
