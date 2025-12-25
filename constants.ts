@@ -7,6 +7,14 @@ export const FRIENDS_DATA: FriendsDataMap = {
     note: "Merry Christmas Nihh, thank u for being my friend. Since u sweat da hell allat, here's my gift from shoppee HAHAHAH.",
     giftImage: "https://down-ph.img.susercontent.com/file/ph-11134207-7rasa-m8x64whc3m31a3.webp" 
   },
+
+   "bibingka": {
+    passcode: "4325",
+    realName: "Ley",
+    note: "Merry Christmas Ley! Thanks for being a great friend (oa). Here's my gift for you, sana ma enjoy mo - Mike",
+    giftImage: "https://i.ytimg.com/vi/YTy10Ot3lnw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCrgdA-uDXagM7F65uQD6TQnTaBlg" 
+  },
+
   "elf": {
     passcode: "5674",
     realName: "Byll",
@@ -89,6 +97,6 @@ export const FRIENDS_DATA: FriendsDataMap = {
     realName: "Kent",
     note: "Merry Christmas Kent! Thanks for being a good friend HAHAHA here's my gift for you sana ma enjoy mo. - Mike",
     giftImage: "https://image.made-in-china.com/2f0j00hqlirDEWHSok/Wholesale-Factory-Price-Luxury-Mobile-Phone-Cases-Fashion-Soft-Leather-Designer-Phone-Case-Sets-Accessories-for-iPhone-Series-Customize.webp" 
-  }
+  },
 
 };

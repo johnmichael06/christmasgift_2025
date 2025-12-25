@@ -4,9 +4,9 @@ const Snow: React.FC = () => {
   const snowflakes = useMemo(() => {
     return Array.from({ length: 50 }).map((_, i) => {
       const left = Math.random() * 100;
-      const duration = Math.random() * 5 + 5; // 5-10s
+      const duration = Math.random() * 5 + 5;
       const delay = Math.random() * 5;
-      const size = Math.random() * 10 + 5; // 5-15px
+      const size = Math.random() * 10 + 5;
       const opacity = Math.random() * 0.5 + 0.3;
 
       return (
