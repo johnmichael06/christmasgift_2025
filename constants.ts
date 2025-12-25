@@ -131,6 +131,14 @@ export const FRIENDS_DATA: FriendsDataMap = {
   },
 
 
+  
+       "pinecone": {
+    passcode: "6767",
+    realName: "Grant",
+    note: "MMerry Christmas Grant!! Thanks for being a real nii! Please enjoy my giftt for you! See u next year!   - Mike",
+    giftImage: "https://image.cloudytees.com/2025/09/Charlie-Kirk-Rest-In-Peace-1993-2025-Ugly-Christmas-Sweater-1.jpg" 
+  },
+
 
 
 
