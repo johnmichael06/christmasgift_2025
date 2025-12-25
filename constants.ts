@@ -100,4 +100,41 @@ export const FRIENDS_DATA: FriendsDataMap = {
     giftImage: "https://image.made-in-china.com/2f0j00hqlirDEWHSok/Wholesale-Factory-Price-Luxury-Mobile-Phone-Cases-Fashion-Soft-Leather-Designer-Phone-Case-Sets-Accessories-for-iPhone-Series-Customize.webp" 
   },
 
+
+      "red": {
+    passcode: "4325",
+    realName: "Kuhrt",
+    note: "Merry Christmas Kuhrt! Thanks for being a great tech-savvy friend HAHAAH. Please enjoy my gift for you. - Mike",
+    giftImage: "https://5.imimg.com/data5/JS/UE/MY-11140028/12.jpg" 
+  },
+
+        "green": {
+    passcode: "5324",
+    realName: "Alynna",
+    note: "Happy Holidays Alynna! Thanks for being a great classmate and friend! Enjoy my gift for u nihhgs! - Mike",
+    giftImage: "https://i.ytimg.com/vi/MGl94QWpvl0/maxresdefault.jpg" 
+  },
+
+       "snowball": {
+    passcode: "5243",
+    realName: "Shayne",
+    note: "Merry Christmas Shayne! Thank you so much for being a great friend!! Here's my gift for you!  - Mike",
+    giftImage: "https://i.ytimg.com/vi/eFn8WIcMhfE/maxresdefault.jpg" 
+  },
+
+
+       "cabin": {
+    passcode: "5243",
+    realName: "Cindy",
+    note: "Merry Christmas (Chrysler) Cind! Thanks sa lahat lahat HAHAHA sana ma enjoy mo itong gift k osa iyo from USA.  - Mike",
+    giftImage: "https://i.ebayimg.com/images/g/CiAAAOSwIe5m0zBg/s-l1200.jpg" 
+  },
+
+
+
+
+
+
+
+
 };
