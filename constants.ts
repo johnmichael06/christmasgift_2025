@@ -148,6 +148,13 @@ export const FRIENDS_DATA: FriendsDataMap = {
     giftImage: "https://www.usm.edu.ph/wp-content/uploads/2025/05/5-6.jpg" 
   },
 
+         "snowflake": {
+    passcode: "4124",
+    realName: "Red",
+    note: "Merry Christmas kuya Jared (My IG REEL BUDDY) sana enjoy ka diyan sa budai. Ingat ka plaagi and enjoy my gift for you. - Mike",
+    giftImage: "https://i.ytimg.com/vi/7sa_z8Ri5yk/maxresdefault.jpg" 
+  },
+
 
 
 
