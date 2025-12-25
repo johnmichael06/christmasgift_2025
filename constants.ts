@@ -64,7 +64,7 @@ export const FRIENDS_DATA: FriendsDataMap = {
     passcode: "423",
     realName: "Mama Bern",
     note: "Merry Christmas (Chrisler) Mama Bern! Since busy kaayo ka sa imo schoo, kani ako gift for you. Hope you enjoy and take good care of it. - Mike",
-    giftImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5HS8SWt8NuLGGGFHjMeg9N_FirAtXHeuUHA&s" 
+    giftImage: "https://ph-live-01.slatic.net/p/908dbf6c977bc36d3b9d823ce146f171.jpg" 
   },
      "reindooor": {
     passcode: "3142",
