@@ -1,19 +1,7 @@
 import { FriendsDataMap } from './types';
 
 export const FRIENDS_DATA: FriendsDataMap = {
-  "bingka": {
-    passcode: "wuwa",
-    realName: "Brian",
-    note: "Merry Christmas Nihh, thank u for being my friend. Since u sweat da hell allat, here's my gift from shoppee HAHAHAH.",
-    giftImage: "https://down-ph.img.susercontent.com/file/ph-11134207-7rasa-m8x64whc3m31a3.webp" 
-  },
 
-   "bibingka": {
-    passcode: "4325",
-    realName: "Ley",
-    note: "Merry Christmas Ley! Thanks for being a great friend (oa). Here's my gift for you, sana ma enjoy mo - Mike",
-    giftImage: "https://i.ytimg.com/vi/YTy10Ot3lnw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCrgdA-uDXagM7F65uQD6TQnTaBlg" 
-  },
 
   "elf": {
     passcode: "5674",
@@ -32,6 +20,19 @@ export const FRIENDS_DATA: FriendsDataMap = {
     realName: "Nina",
     note: "Merry Christmas Nihg, since you  are an andventurer, kani akong gift sa imo. - Mike",
     giftImage: "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825" 
+  },
+    "bingka": {
+    passcode: "wuwa",
+    realName: "Brian",
+    note: "Merry Christmas Nihh, thank u for being my friend. Since u sweat da hell allat, here's my gift from shoppee HAHAHAH.",
+    giftImage: "https://down-ph.img.susercontent.com/file/ph-11134207-7rasa-m8x64whc3m31a3.webp" 
+  },
+
+   "bibingka": {
+    passcode: "4325",
+    realName: "Ley",
+    note: "Merry Christmas Ley! Thanks for being a great friend (oa). Here's my gift for you, sana ma enjoy mo - Mike",
+    giftImage: "https://i.ytimg.com/vi/YTy10Ot3lnw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCrgdA-uDXagM7F65uQD6TQnTaBlg" 
   },
     "rudolph": {
     passcode: "5678",
