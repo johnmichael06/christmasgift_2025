@@ -155,6 +155,14 @@ export const FRIENDS_DATA: FriendsDataMap = {
     giftImage: "https://i.ytimg.com/vi/7sa_z8Ri5yk/maxresdefault.jpg" 
   },
 
+  
+         "bread": {
+    passcode: "4124",
+    realName: "Tryx",
+    note: "Merry Chirstmas Tryx! Thank you for being a good friend! Hope you are safe there and I always wish the best for u! Kitakits soon! And here's my gift for u btw! Hope you enjoy!- Mike",
+    giftImage: "https://traversewithtaylor.com/wp-content/uploads/2023/01/Untitled-design-24.png" 
+  },
+
 
 
 
